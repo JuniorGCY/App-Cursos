@@ -12,7 +12,7 @@ Repositório com apps desenvolvidos durante o curso de React Native.
 ## Projetos em destaque
 
 - **appFirebase** — App que integra funcionalidades do Firebase.  
-- **appAnimações** — App focado em animações nativas do React Native.  
+- **appFilmes** — App focado em usar APi/Json para mostrar lista de filmes.  
 - **viaCEP** — App que consome a API ViaCEP para consulta de CEPs.
 
 ## Como rodar os apps localmente
